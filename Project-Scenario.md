@@ -16,12 +16,13 @@
 | **실험 관리/분석**: Weights & Biases (실험 기록 및 시각화 도구), TensorBoard (학습 과정 모니터링 및 시각화) |
 | 사용할 소프트웨어 패키지의 명칭과 URL |
 |--------------------------------------|
-| **모델**: [OpenAI CLIP](https://github.com/openai/CLIP), [HuggingFace Transformers](https://huggingface.co/transformers) |
-| **프레임워크**: [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/) |
-| **가속/최적화**: [Google Cloud TPU + PyTorch-XLA](https://github.com/pytorch/xla), [ONNX Runtime](https://onnxruntime.ai/), [TensorRT](https://developer.nvidia.com/tensorrt) |
-| **실험 관리/분석**: [Weights & Biases](https://wandb.ai/site), [TensorBoard](https://www.tensorflow.org/tensorboard) |
+| **모델** | [OpenAI CLIP](https://github.com/openai/CLIP), [HuggingFace Transformers](https://huggingface.co/transformers) |
+| **프레임워크** | [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/) |
+| **가속/최적화** | [Google Cloud TPU + PyTorch-XLA](https://github.com/pytorch/xla), [ONNX Runtime](https://onnxruntime.ai/), [TensorRT](https://developer.nvidia.com/tensorrt) |
+| **실험 관리/분석** | [Weights & Biases](https://wandb.ai/site), [TensorBoard](https://www.tensorflow.org/tensorboard) |
 | 팀그라운드룰 | [GroundRule.md](./GroundRule.md) |
 | 최종수정일 | 2025-09-15 |
+
 
 
 
