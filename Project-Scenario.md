@@ -1,7 +1,7 @@
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 | 멀티모달 최적화 NPU 아키텍처 설계 |
-| 프로젝트 키워드 | Multimodal, Optimization, NPU |
+| 프로젝트명 | 이미지-텍스트 기반 멀티모달 최적화 NPU 아키텍처 설계 |
+| 프로젝트 키워드 | Multi-modal, Optimization, NPU |
 | 트랙 | AI/시스템 |
 | 프로젝트 멤버 | 하정연, 최윤지, 이지현 |
 | 팀지도교수 | 심재형 교수님 |
@@ -22,4 +22,5 @@
 | **실험 관리/분석**: [Weights & Biases](https://wandb.ai/site), [TensorBoard](https://www.tensorflow.org/tensorboard) |
 | 팀그라운드룰 | [GroundRule.md](./GroundRule.md) |
 | 최종수정일 | 2025-09-15 |
+
 
