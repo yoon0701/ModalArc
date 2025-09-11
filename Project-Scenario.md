@@ -12,8 +12,9 @@
 | Pain Point | 1. 기존 NPU 한계: 대부분의 상용 NPU는 단일 데이터 유형(주로 CNN 이미지) 처리에 최적화되어 있어, 멀티모달 AI에 적용하기 어렵습니다. <br><br> 2. 자원 경쟁과 비효율성: 단일 NPU에서 이미지, 텍스트, 음성 등 여러 모달을 동시에 처리하면 연산 유닛과 메모리 대역폭 경쟁으로 성능 저하가 발생합니다. <br><br> 3. 온디바이스 실행의 필요성: 제한된 전력과 메모리 환경에서 복잡한 멀티모달 AI를 실행하려면, 온디바이스 환경을 고려한 멀티모달 특화 NPU 아키텍처가 필수적입니다. |
 | 사용할 소프트웨어 패키지의 명칭과 핵심기능/용도 |  1. Model <br>  • OpenAI CLIP: 이미지-텍스트 멀티모달 인코더 <br>  • HuggingFace Transformers: 다양한 사전학습 모델과 데이터셋 제공 <br><br> 2. Framework <br>  • PyTorch: 딥러닝 학습 및 추론 프레임워크 <br> • TensorFlow: TPU 친화적인 딥러닝 프레임워크 <br><br> 3. NPU Simulator <br> • Scale-Sim: NPU 아키텍처 검증 및 성능 분석 <br><br> 4. 가속/최적화 <br> • ONNX Runtime: 모델 변환 및 경량화 추론 <br> • TensorRT: GPU 및 엣지 디바이스 최적화 <br> • PyTorch-XLA: 클라우드 TPU 환경에서 학습/추론 지원 <br><br> 5. 실험 관리/분석 <br> • Weights & Biases: 실험 기록 및 시각화 <br> • TensorBoard: 학습 과정 모니터링 및 시각화 |
 | 사용할 소프트웨어 패키지의 명칭과 URL |  • OpenAI CLIP: https://github.com/openai/CLIP <br> • HuggingFace Transformers: https://huggingface.co/transformers <br> • PyTorch: https://pytorch.org/ <br> • TensorFlow: https://www.tensorflow.org <br> • ONNXim: https://github.com/PSAL-POSTECH/ONNXim <br> • ONNX + PyTorch-XLA:https://github.com/pytorch/xla <br> • ONNX Runtime: https://onnxruntime.ai/ <br> • TensorRT: https://developer.nvidia.com/tensorrt <br> • Weights & Biases: https://wandb.ai/site <br> • TensorBoard: https://www.tensorflow.org/tensorboard |
-| 팀그라운드룰 | [GroundRule.md](./GroundRule.md) |
+| 팀그라운드룰 | https://github.com/yoon0701/ModalArc/blob/main/GroundRule.md |
 | 최종수정일 | 2025-09-15 |
+
 
 
 
