@@ -19,11 +19,12 @@
 |--------------------------------------|
 | **모델** | [OpenAI CLIP](https://github.com/openai/CLIP), [HuggingFace Transformers](https://huggingface.co/transformers) |
 | **프레임워크** | [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/) |
-| **NPU 시뮬레이터**: [ONNXim](https://github.com/PSAL-POSTECH/ONNXim)|
+| **NPU 시뮬레이터**| [ONNXim](https://github.com/PSAL-POSTECH/ONNXim)|
 | **가속/최적화** | [Google Cloud TPU + PyTorch-XLA](https://github.com/pytorch/xla), [ONNX Runtime](https://onnxruntime.ai/), [TensorRT](https://developer.nvidia.com/tensorrt) |
 | **실험 관리/분석** | [Weights & Biases](https://wandb.ai/site), [TensorBoard](https://www.tensorflow.org/tensorboard) |
 | 팀그라운드룰 | [GroundRule.md](./GroundRule.md) |
 | 최종수정일 | 2025-09-15 |
+
 
 
 
