@@ -1,4 +1,4 @@
-# ModalArc Groud Rule
+# ModalArc Ground Rule
 
 ### 😎 Team Culture
 * 팀원들이 새로운 아이디어를 자유롭게 제안할 수 있는 분위기 만들기
