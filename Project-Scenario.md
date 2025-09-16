@@ -3,7 +3,7 @@
 | 항목 | 내용 |
 |------|------|
 | 프로젝트명 | 온디바이스 환경에서 이미지-텍스트 기반 멀티모달 AI 실행 최적화를 위한 NPU 아키텍처 설계
-| 프로젝트 키워드 | NPU, Multi-modal, On-device, Architecture design |
+| 프로젝트 키워드 | NPU Architecture design, Multi-modal AI, On-device |
 | 트랙 | 연구 |
 | 프로젝트 멤버 | 하정연, 최윤지, 이지현 |
 | 팀지도교수 | 심재형 교수님 |
@@ -13,7 +13,8 @@
 | 사용할 소프트웨어 패키지의 명칭과 핵심기능/용도 |  1. Model <br>  • OpenAI CLIP: 이미지-텍스트 멀티모달 인코더 <br>  • HuggingFace Transformers: 다양한 사전학습 모델과 데이터셋 제공 <br><br> 2. Framework <br>  • PyTorch: 딥러닝 학습 및 추론 프레임워크 <br> • TensorFlow: TPU 친화적인 딥러닝 프레임워크 <br><br> 3. NPU Simulator <br> • POSTECH ONNXim: NPU 아키텍처 검증 및 성능 분석 <br><br> 4. 가속/최적화 <br> • ONNX Runtime: 모델 변환 및 경량화 추론 <br> • TensorRT: GPU 및 엣지 디바이스 최적화 <br> • PyTorch-XLA: 클라우드 TPU 환경에서 학습/추론 지원 <br><br> 5. 실험 관리/분석 <br> • Weights & Biases: 실험 기록 및 시각화 <br> • TensorBoard: 학습 과정 모니터링 및 시각화 |
 | 사용할 소프트웨어 패키지의 명칭과 URL |  • OpenAI CLIP: https://github.com/openai/CLIP <br> • HuggingFace Transformers: https://huggingface.co/transformers <br> • PyTorch: https://pytorch.org/ <br> • TensorFlow: https://www.tensorflow.org <br> • ONNXim: https://github.com/PSAL-POSTECH/ONNXim <br> • ONNX + PyTorch-XLA:https://github.com/pytorch/xla <br> • ONNX Runtime: https://onnxruntime.ai/ <br> • TensorRT: https://developer.nvidia.com/tensorrt <br> • Weights & Biases: https://wandb.ai/site <br> • TensorBoard: https://www.tensorflow.org/tensorboard |
 | 팀그라운드룰 | https://github.com/yoon0701/ModalArc/blob/main/GroundRule.md |
-| 최종수정일 | 2025-09-15 |
+| 최종수정일 | 2025-09-16 |
+
 
 
 
