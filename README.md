@@ -4,7 +4,7 @@
 이화여자대학교 캡스톤디자인과창업프로젝트 연구 팀<br>
 하정연, 최윤지, 이지현
 
-본 프로젝트는 온디바이스 환경에서 멀티모달 AI를 효율적으로 추론하기 위한 NPU 하드웨어 가속기 설계를 제안합니다. <br> 🔍 기존 NPU의 한계인 데이터 이질성, 메모리 병목, 비효율적 스케줄링 등의 문제를 해결하는 것을 목표로 합니다.  <br> 🛠️ ONNXim 시뮬레이터에서 대표적인 이미지 - 텍스트 조합 멀티모달 모델인 CLIP을 실행하고, 제안한 Modality-Aware Dynamic Scheduler의 성능을 평가합니다.
+본 프로젝트는 온디바이스 환경에서 멀티모달 AI를 효율적으로 추론하기 위한 NPU 하드웨어 가속기 설계를 제안합니다. <br> 🔍 기존 NPU의 한계인 데이터 이질성, 메모리 병목, 비효율적 스케줄링 등의 문제를 해결하는 것을 목표로 합니다.  <br> 🛠️ ONNXim 시뮬레이터에서 대표적인 이미지 - 텍스트 조합 멀티모달 모델인 CLIP을 실행하고, 제안한 Modality-Aware Dynamic Scheduler를 시뮬레이터에 구현하고, 성능을 평가합니다.
 
 ## 🔑 Research Keywords
 `NPU` | `On-device AI` | `Multimodal AI` | `Architecture design`
