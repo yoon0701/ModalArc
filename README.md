@@ -6,7 +6,7 @@
 
 본 연구는 **전력과 자원이 제한된 On-Device 환경에서, 멀티모달 AI를 효율적으로 추론하기 위한 차세대 NPU 하드웨어 가속기 및 스케줄러 설계**를 제안합니다. 기존 NPU 아키텍처가 가진 데이터 이질성(Data Heterogeneity) 및 비효율적 하드웨어 재구성 문제를 해결하기 위해, 컴파일 타임에 모달리티 특성을 반영하여 최적의 하드웨어 조합을 결정하는 **Modality-Aware Dynamic Scheduler**를 구현합니다. 
 
-ONNXim 시뮬레이터를 기반으로 구현되었으며, 대표적인 이미지-텍스트 멀티모달 모델인 CLIP을 통해 제안된 아키텍처의 성능(Latency, Energy efficency, Utilization) 향상을 입증합니다.
+ONNXim 시뮬레이터를 기반으로 구현되었으며, 대표적인 이미지-텍스트 멀티모달 모델인 CLIP을 통해 제안된 아키텍처의 성능(Latency, Energy efficiency, Utilization) 향상을 입증합니다.
 
 
 
