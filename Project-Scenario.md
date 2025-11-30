@@ -2,7 +2,8 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 | 온디바이스 환경에서 이미지-텍스트 기반 멀티모달 AI 추론을 위한 NPU 하드웨어 가속기 설계
+| 프로젝트명 | 온디바이스 환경에서 이미지-텍스트 기반 멀티모달 AI 추론을 위한 NPU 하드웨어 가속기 설계: Modality-Aware Dynamic Scheduler 기반의 효율 최적화
+
 | 프로젝트 키워드 | NPU Architecture design, Multi-modal AI, On-device, Scheduler |
 | 트랙 | 연구 |
 | 프로젝트 멤버 | 하정연, 최윤지, 이지현 |
@@ -14,6 +15,7 @@
 | 사용할 소프트웨어 패키지의 명칭과 URL |  • OpenAI CLIP: https://github.com/openai/CLIP <br> • HuggingFace Transformers: https://huggingface.co/transformers <br> • PyTorch: https://pytorch.org/ <br> • ONNXim: https://github.com/PSAL-POSTECH/ONNXim <br> • ONNX Runtime: https://onnxruntime.ai/ <br> • TensorRT: https://developer.nvidia.com/tensorrt <br> • Weights & Biases: https://wandb.ai/site <br> • TensorBoard: https://www.tensorflow.org/tensorboard |
 | 팀그라운드룰 | https://github.com/yoon0701/ModalArc/blob/main/GroundRule.md |
 | 최종수정일 | 2025-11-27 |
+
 
 
 
