@@ -1,4 +1,4 @@
-# 온디바이스 환경에서 이미지-텍스트 기반 멀티모달 AI 추론을 위한 NPU 하드웨어 가속기 설계: Modality-Aware Dynamic Scheduler 기반의 효율 최적화
+# Modality-Aware NPU를 위한 Zero-Overhead Dynamic Scheduler: 온디바이스 멀티모달 AI 가속 최적화
 
 ---
 ## 🦾 Team ModalArc
