@@ -51,7 +51,7 @@ ONNXim 시뮬레이터를 기반으로 구현되었으며, 대표적인 이미�
 (자세한 알고리즘 및 실험 결과는 추후 공개될 논문을 참고해 주세요.)
 
 ### 3. Implementation
-* **Language**: Python
+* **Language**: Python, C++
 * **Target Model**: OpenAI CLIP (ViT-B/32 + Transformer)
 * **NPU (TPU v4) Simulator** : Postech ONNXim
 * **Evaluation**: Latency, Energy Efficiency, PE Utilization <br> 
